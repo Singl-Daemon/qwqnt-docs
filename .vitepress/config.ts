@@ -30,7 +30,7 @@ export default defineConfig({
           { text: '开源策略', link: '/framework/open-source' },
           { text: '反馈问题', link: '/framework/feedback' },
           { text: 'LiteLoaderQQNT 兼容', link: '/framework/adapt-liteloaderqqnt' },
-          { text: '活动存档', link: '/framework/event-achievement' },
+          { text: '活动存档', link: '/framework/event-archive' },
         ],
       },
       {
