@@ -26,4 +26,10 @@
 
 ## 第五次活动 - puzzle
 
+点击下方链接下载文件以回顾活动。
+
+[Puzzle.zip](/Puzzle.zip)
+
+## 第六次活动 - 「The Framework」
+
 正在热烈举行中！欢迎进入 [Telegram 公开群组](https://t.me/QwQ_NT)参与！
