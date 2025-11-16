@@ -49,6 +49,10 @@ export default defineConfig({
   },
 
   markdown: {
+    theme: {
+      light: 'catppuccin-latte',
+      dark: 'catppuccin-mocha',
+    },
     config(md){
       md.use(groupIconMdPlugin);
     },
