@@ -32,4 +32,25 @@
 
 ## 第六次活动 - 「The Framework」
 
-正在热烈举行中！欢迎进入 [Telegram 公开群组](https://t.me/QwQ_NT)参与！
+点击下方链接浏览文件以回顾活动。
+
+[「架构」邀请信.pdf](/「架构」邀请信.pdf)
+
+> [!TIP]
+> 第六期提示 1 ：The time you are finding is in something you think it's useless.
+>
+> 第六期提示 2 ：As early as the very beginning that you can think.
+>
+> 第六期提示 3 ：The beginning has some explanations, but no matter which explanation, you can get what you want.
+>
+> 第六期提示 4 ：Pay attention to the title of something, maybe it is the tips itself.
+>
+> 第六期提示 5 ：Nothing is unnecessary.
+>
+> 第六期提示 6 ：见下图
+>
+> ![提示 6](/img/event-6-tips.jpg)
+
+## 第七次活动 - ???
+
+正在热烈筹备中！欢迎进入 [Telegram 公开群组](https://t.me/QwQ_NT)获取第一信息！
