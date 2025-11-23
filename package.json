@@ -12,12 +12,12 @@
   },
   "author": "風間青祢",
   "license": "MIT",
-  "packageManager": "pnpm@10.22.0",
+  "packageManager": "pnpm@10.23.0",
   "devDependencies": {
     "@catppuccin/vitepress": "^0.1.2",
     "@nolebase/vitepress-plugin-git-changelog": "^2.18.2",
     "@types/node": "^24.10.1",
-    "vitepress": "2.0.0-alpha.13",
+    "vitepress": "2.0.0-alpha.15",
     "vitepress-plugin-group-icons": "^1.6.5"
   }
 }

@@ -13,13 +13,13 @@ importers:
         version: 0.1.2(typescript@5.9.3)
       '@nolebase/vitepress-plugin-git-changelog':
         specifier: ^2.18.2
-        version: 2.18.2(vitepress@2.0.0-alpha.13(@types/node@24.10.1)(less@4.4.2)(postcss@8.5.6)(typescript@5.9.3))(vue@3.5.24(typescript@5.9.3))
+        version: 2.18.2(vitepress@2.0.0-alpha.15(@types/node@24.10.1)(less@4.4.2)(postcss@8.5.6)(typescript@5.9.3))(vue@3.5.24(typescript@5.9.3))
       '@types/node':
         specifier: ^24.10.1
         version: 24.10.1
       vitepress:
-        specifier: 2.0.0-alpha.13
-        version: 2.0.0-alpha.13(@types/node@24.10.1)(less@4.4.2)(postcss@8.5.6)(typescript@5.9.3)
+        specifier: 2.0.0-alpha.15
+        version: 2.0.0-alpha.15(@types/node@24.10.1)(less@4.4.2)(postcss@8.5.6)(typescript@5.9.3)
       vitepress-plugin-group-icons:
         specifier: ^1.6.5
         version: 1.6.5(vite@7.2.2(@types/node@24.10.1)(less@4.4.2))
@@ -222,8 +222,8 @@ packages:
   '@iconify-json/octicon@1.2.19':
     resolution: {integrity: sha512-q1a9fpyg0Cw/Bt9hEfP86eJlgKtMXzNIRQnsbPZi1MBoHlPyi056TdzV72zY/F+oJSJ8b5Ub8njL2fWs/iLJAg==}
 
-  '@iconify-json/simple-icons@1.2.58':
-    resolution: {integrity: sha512-XtXEoRALqztdNc9ujYBj2tTCPKdIPKJBdLNDebFF46VV1aOAwTbAYMgNsK5GMCpTJupLCmpBWDn+gX5SpECorQ==}
+  '@iconify-json/simple-icons@1.2.59':
+    resolution: {integrity: sha512-fYx/InyQsWFW4wVxWka3CGDJ6m/fXoTqWBSl+oA3FBXO5RhPAb6S3Y5bRgCPnrYevErH8VjAL0TZevIqlN2PhQ==}
 
   '@iconify-json/vscode-icons@1.2.34':
     resolution: {integrity: sha512-51TK8qez3kJz103VUhvB+slZ2aaVLHemZ+m88Eki2jvfxyRF8B/B153t9IqEFeGaMNxCIkoiudhStThpJp4Vmg==}
@@ -457,14 +457,14 @@ packages:
   '@vue/compiler-ssr@3.5.24':
     resolution: {integrity: sha512-trOvMWNBMQ/odMRHW7Ae1CdfYx+7MuiQu62Jtu36gMLXcaoqKvAyh+P73sYG9ll+6jLB6QPovqoKGGZROzkFFg==}
 
-  '@vue/devtools-api@8.0.3':
-    resolution: {integrity: sha512-YxZE7xNvvfq5XmjJh1ml+CzVNrRjuZYCuT5Xjj0u9RlXU7za/MRuZDUXcKfp0j7IvYkDut49vlKqbiQ1xhXP2w==}
+  '@vue/devtools-api@8.0.5':
+    resolution: {integrity: sha512-DgVcW8H/Nral7LgZEecYFFYXnAvGuN9C3L3DtWekAncFBedBczpNW8iHKExfaM559Zm8wQWrwtYZ9lXthEHtDw==}
 
-  '@vue/devtools-kit@8.0.3':
-    resolution: {integrity: sha512-UF4YUOVGdfzXLCv5pMg2DxocB8dvXz278fpgEE+nJ/DRALQGAva7sj9ton0VWZ9hmXw+SV8yKMrxP2MpMhq9Wg==}
+  '@vue/devtools-kit@8.0.5':
+    resolution: {integrity: sha512-q2VV6x1U3KJMTQPUlRMyWEKVbcHuxhqJdSr6Jtjz5uAThAIrfJ6WVZdGZm5cuO63ZnSUz0RCsVwiUUb0mDV0Yg==}
 
-  '@vue/devtools-shared@8.0.3':
-    resolution: {integrity: sha512-s/QNll7TlpbADFZrPVsaUNPCOF8NvQgtgmmB7Tip6pLf/HcOvBTly0lfLQ0Eylu9FQ4OqBhFpLyBgwykiSf8zw==}
+  '@vue/devtools-shared@8.0.5':
+    resolution: {integrity: sha512-bRLn6/spxpmgLk+iwOrR29KrYnJjG9DGpHGkDFG82UM21ZpJ39ztUT9OXX3g+usW7/b2z+h46I9ZiYyB07XMXg==}
 
   '@vue/reactivity@3.5.24':
     resolution: {integrity: sha512-BM8kBhtlkkbnyl4q+HiF5R5BL0ycDPfihowulm02q3WYp2vxgPcJuZO866qa/0u3idbMntKEtVNuAUp5bw4teg==}
@@ -1131,8 +1131,8 @@ packages:
       vite:
         optional: true
 
-  vitepress@2.0.0-alpha.13:
-    resolution: {integrity: sha512-bnUfnyL3TRqqYvOxQ68MxbFyI6qkQ8IQnhwIiGLSMF9GXloyfBCV1hnVJE6yA+Rlk+T+y19gzDKjKIMpiCIUvA==}
+  vitepress@2.0.0-alpha.15:
+    resolution: {integrity: sha512-jhjSYd10Z6RZiKOa7jy0xMVf5NB5oSc/lS3bD/QoUc6V8PrvQR5JhC9104NEt6+oTGY/ftieVWxY9v7YI+1IjA==}
     hasBin: true
     peerDependencies:
       markdown-it-mathjax3: ^4
@@ -1284,7 +1284,7 @@ snapshots:
     dependencies:
       '@iconify/types': 2.0.0
 
-  '@iconify-json/simple-icons@1.2.58':
+  '@iconify-json/simple-icons@1.2.59':
     dependencies:
       '@iconify/types': 2.0.0
 
@@ -1321,17 +1321,17 @@ snapshots:
       '@nodelib/fs.scandir': 2.1.5
       fastq: 1.19.1
 
-  '@nolebase/ui@2.18.2(vitepress@2.0.0-alpha.13(@types/node@24.10.1)(less@4.4.2)(postcss@8.5.6)(typescript@5.9.3))(vue@3.5.24(typescript@5.9.3))':
+  '@nolebase/ui@2.18.2(vitepress@2.0.0-alpha.15(@types/node@24.10.1)(less@4.4.2)(postcss@8.5.6)(typescript@5.9.3))(vue@3.5.24(typescript@5.9.3))':
     dependencies:
       '@iconify-json/octicon': 1.2.19
       less: 4.4.2
-      vitepress: 2.0.0-alpha.13(@types/node@24.10.1)(less@4.4.2)(postcss@8.5.6)(typescript@5.9.3)
+      vitepress: 2.0.0-alpha.15(@types/node@24.10.1)(less@4.4.2)(postcss@8.5.6)(typescript@5.9.3)
       vue: 3.5.24(typescript@5.9.3)
 
-  '@nolebase/vitepress-plugin-git-changelog@2.18.2(vitepress@2.0.0-alpha.13(@types/node@24.10.1)(less@4.4.2)(postcss@8.5.6)(typescript@5.9.3))(vue@3.5.24(typescript@5.9.3))':
+  '@nolebase/vitepress-plugin-git-changelog@2.18.2(vitepress@2.0.0-alpha.15(@types/node@24.10.1)(less@4.4.2)(postcss@8.5.6)(typescript@5.9.3))(vue@3.5.24(typescript@5.9.3))':
     dependencies:
       '@iconify-json/octicon': 1.2.19
-      '@nolebase/ui': 2.18.2(vitepress@2.0.0-alpha.13(@types/node@24.10.1)(less@4.4.2)(postcss@8.5.6)(typescript@5.9.3))(vue@3.5.24(typescript@5.9.3))
+      '@nolebase/ui': 2.18.2(vitepress@2.0.0-alpha.15(@types/node@24.10.1)(less@4.4.2)(postcss@8.5.6)(typescript@5.9.3))(vue@3.5.24(typescript@5.9.3))
       colorette: 2.0.20
       date-fns: 4.1.0
       defu: 6.1.4
@@ -1341,7 +1341,7 @@ snapshots:
       gray-matter: 4.0.3
       less: 4.4.2
       uncrypto: 0.1.3
-      vitepress: 2.0.0-alpha.13(@types/node@24.10.1)(less@4.4.2)(postcss@8.5.6)(typescript@5.9.3)
+      vitepress: 2.0.0-alpha.15(@types/node@24.10.1)(less@4.4.2)(postcss@8.5.6)(typescript@5.9.3)
     transitivePeerDependencies:
       - vue
 
@@ -1522,13 +1522,13 @@ snapshots:
       '@vue/compiler-dom': 3.5.24
       '@vue/shared': 3.5.24
 
-  '@vue/devtools-api@8.0.3':
+  '@vue/devtools-api@8.0.5':
     dependencies:
-      '@vue/devtools-kit': 8.0.3
+      '@vue/devtools-kit': 8.0.5
 
-  '@vue/devtools-kit@8.0.3':
+  '@vue/devtools-kit@8.0.5':
     dependencies:
-      '@vue/devtools-shared': 8.0.3
+      '@vue/devtools-shared': 8.0.5
       birpc: 2.8.0
       hookable: 5.5.3
       mitt: 3.0.1
@@ -1536,7 +1536,7 @@ snapshots:
       speakingurl: 14.0.1
       superjson: 2.2.5
 
-  '@vue/devtools-shared@8.0.3':
+  '@vue/devtools-shared@8.0.5':
     dependencies:
       rfdc: 1.4.1
 
@@ -2181,17 +2181,17 @@ snapshots:
     transitivePeerDependencies:
       - supports-color
 
-  vitepress@2.0.0-alpha.13(@types/node@24.10.1)(less@4.4.2)(postcss@8.5.6)(typescript@5.9.3):
+  vitepress@2.0.0-alpha.15(@types/node@24.10.1)(less@4.4.2)(postcss@8.5.6)(typescript@5.9.3):
     dependencies:
       '@docsearch/css': 4.3.2
       '@docsearch/js': 4.3.2
-      '@iconify-json/simple-icons': 1.2.58
+      '@iconify-json/simple-icons': 1.2.59
       '@shikijs/core': 3.15.0
       '@shikijs/transformers': 3.15.0
       '@shikijs/types': 3.15.0
       '@types/markdown-it': 14.1.2
       '@vitejs/plugin-vue': 6.0.1(vite@7.2.2(@types/node@24.10.1)(less@4.4.2))(vue@3.5.24(typescript@5.9.3))
-      '@vue/devtools-api': 8.0.3
+      '@vue/devtools-api': 8.0.5
       '@vue/shared': 3.5.24
       '@vueuse/core': 14.0.0(vue@3.5.24(typescript@5.9.3))
       '@vueuse/integrations': 14.0.0(focus-trap@7.6.6)(vue@3.5.24(typescript@5.9.3))
