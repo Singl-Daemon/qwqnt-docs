@@ -18,7 +18,7 @@
 
 请前往[该网站](https://qwqnt.adproqwq.top/)参与。
 
-## 第四次活动 - Event4
+## 第四次活动 - Event4.
 
 > The password is password.
 
